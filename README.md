@@ -4,7 +4,7 @@ A Python tool to **visualize and compare lag order selection** for multivariate 
 
 ---
 
-## 🚀 Features
+# Features
 - Computes AIC and BIC values for different lag orders in **VAR (Vector Autoregression)** models.
 - Highlights the **best lag order** based on each criterion.
 
